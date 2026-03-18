@@ -3,3 +3,4 @@ new line added to master branch
 new line in test1
 new line inside master
 new line inside master
+new line 6 inside master
