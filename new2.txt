@@ -1,2 +1,2 @@
 this is new text file
-changes made inside test1
+new line added to master branch
